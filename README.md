@@ -1,3 +1,10 @@
+A PaperMC fork that delete sand duper fix.
+
+
+
+**The following is the original description, download addresses, etc. are not used**
+
+
 Paper [![Build Status](https://papermc.io/ci/job/Paper-1.16/badge/icon)](https://papermc.io/ci/job/Paper-1.16/)
 ===========
 
