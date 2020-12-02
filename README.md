@@ -1,9 +1,21 @@
 A PaperMC fork that delete sand duper fix.
+===========
 
-Since my workflow has been separated from github, I will not update this repository, but I will release the build in release.
+
+**Since my workflow has been separated from github, I will not update this repository, but I will release the build in release.**
 Please note that this repository cannot be directly compiled correctly.
 
+
+
 **The following is the original description, download addresses, etc. are not used**
+
+
+
+
+
+
+
+
 
 
 Paper [![Build Status](https://papermc.io/ci/job/Paper-1.16/badge/icon)](https://papermc.io/ci/job/Paper-1.16/)
