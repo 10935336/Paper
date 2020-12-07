@@ -1,7 +1,7 @@
 A PaperMC fork that delete sand duper fix.
 ===========
 
-**you can enable TNT, Rails and Carpet duping by config, but you can't enable sand duping, so this is the fork that you can use sand duping.**
+**you can enable TNT, Rails and Carpet duping by config, but you can't enable sand duping, so this is the fork that you can use sand dupers.**
 
 
 **Since my workflow has been separated from github, I will not update this repository, but I will release the build in release.**
