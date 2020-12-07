@@ -1,13 +1,27 @@
 A PaperMC fork that delete sand duper fix.
 ===========
 
+**you can enable TNT, Rails and Carpet duping by config, but you can't enable sand duping, so this is the fork that you can use sand duping.**
+
 
 **Since my workflow has been separated from github, I will not update this repository, but I will release the build in release.**
+
 Please note that this repository cannot be directly compiled correctly.
 
 
 
 **The following is the original description, download addresses, etc. are not used**
+
+
+
+一个删除了刷沙机修复补丁的 PaperMC
+===========
+
+**你可以在设置中启用 TNT、铁轨和地毯复制，但刷沙机却不行，所以这是一个可以让你使用刷沙机的 PaperMC fork。**
+
+本仓库未更新，请直接在 Release 下载构建。
+
+
 
 
 
