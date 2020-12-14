@@ -6,10 +6,12 @@ A PaperMC fork that delete sand duping fix
 
 Please note that since my workflow does not depend on this repository, so this repository has not been updated and cannot be compiled correctly.
 
-
+<br/>
 
 一个删除了刷沙修复补丁的 PaperMC fork
 ===========
+**你可以在配置文件中启用刷TNT、刷铁轨、刷地毯，但是你无法在配置文件中启用刷沙，所以这是一个可以让你用刷沙机的 fork。**
+
 **仅删除 Fix-sand-dumping.patch，未做其他改动。请直接在 Releases 中下载构建。版本号与 Paper ci 服务器一致。**
 
 请注意，由于我的工作流程不依赖于此存储库，因此该存储库未更新，且无法正确编译。
