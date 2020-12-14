@@ -1,3 +1,28 @@
+A PaperMC fork that delete sand duping fix
+===========
+**You can enable TNT, Rails and Carpet duping by config, but you can't enable sand duping, so this is the fork that you can use sand dupers.**
+
+**Just delete Fix-sand-dumping.patch, no other changes. Please download in Releases. the version number is consistent with Paper ci server.**
+
+Please note that since my workflow does not depend on this repository, so this repository has not been updated and cannot be compiled correctly.
+
+
+
+一个删除了刷沙修复补丁的 PaperMC fork
+===========
+**仅删除 Fix-sand-dumping.patch，未做其他改动。请直接在 Releases 中下载构建。版本号与 Paper ci 服务器一致。**
+
+请注意，由于我的工作流程不依赖于此存储库，因此该存储库未更新，且无法正确编译。
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 Paper [![Build Status](https://papermc.io/ci/job/Paper-1.16/badge/icon)](https://papermc.io/ci/job/Paper-1.16/)
 ===========
 
