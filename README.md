@@ -1,3 +1,11 @@
+**No update plan at the moment.**
+
+**Maybe try this https://github.com/neko-craft/NekoAgent**
+
+
+
+
+
 A PaperMC fork that delete sand duping fix
 ===========
 **You can enable TNT, Rails and Carpet duping by config, but you can't enable sand duping, so this is the fork that you can use sand dupers.**
