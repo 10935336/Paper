@@ -1,6 +1,6 @@
 **No update plan at the moment.**
 
-**Maybe try **
+Maybe try
 
 https://github.com/neko-craft/NekoAgent
 
@@ -9,9 +9,11 @@ https://github.com/MrTransistorsChannel/SandDupe
 https://github.com/Nats-ji/paper-sand-dupe-unpatched
 
 
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 A PaperMC fork that delete sand duping fix
 ===========
