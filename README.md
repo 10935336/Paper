@@ -1,6 +1,13 @@
 **No update plan at the moment.**
 
-**Maybe try this https://github.com/neko-craft/NekoAgent**
+**Maybe try **
+
+https://github.com/neko-craft/NekoAgent
+
+https://github.com/MrTransistorsChannel/SandDupe
+
+https://github.com/Nats-ji/paper-sand-dupe-unpatched
+
 
 
 
